@@ -1,0 +1,7 @@
+{
+  "buildCommand": "echo 'Build complete - no build needed'",
+  "startCommand": "node server.js",
+  "installCommand": "npm install",
+  "outputDirectory": ".",
+  "environment": "node"
+}
